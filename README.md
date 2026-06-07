@@ -49,7 +49,7 @@ Data access was performed using the Lightkurve package, which retrieves observat
     ├── phase_folded.png
     ├── transit_fit.png
     └── binned_transit_fit.png
-
+```
 ## Results
 The analysis successfully demonstrates how photometric light curve observations can be used to identify potential exoplanet transit signatures. The generated visualizations highlight characteristic brightness reductions associated with planetary transits and provide insight into observational exoplanet research techniques.
 ### Cleaned and Detrended Light Curve
