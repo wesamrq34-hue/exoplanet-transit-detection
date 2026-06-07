@@ -38,13 +38,17 @@ Data access was performed using the Lightkurve package, which retrieves observat
 - Jupyter Notebook
 
 ## Repository Structure
+
+```text
 .
 ├── Exoplanet_Transit_Detection.ipynb
 ├── README.md
 └── figures/
-    ├── light_curve.png
-    ├── transit_detection.png
-    └── results.png
+    ├── clean_lightcurve.png
+    ├── bls_periodogram.png
+    ├── phase_folded.png
+    ├── transit_fit.png
+    └── binned_transit_fit.png
 
 ## Results
 The analysis successfully demonstrates how photometric light curve observations can be used to identify potential exoplanet transit signatures. The generated visualizations highlight characteristic brightness reductions associated with planetary transits and provide insight into observational exoplanet research techniques.
